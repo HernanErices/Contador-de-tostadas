@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">contadorDeTostadas</string>
+    <string name="button_tostada">Tostada</string>
+    <string name="button_aumentar">Aumenntar</string>
+    <string name="button_reset">Reset</string>
+    <string name="button_reducir">Reducir</string>
+    <string name="tv_contador">0</string>
+
+</resources>
